@@ -1,0 +1,26 @@
+#title {
+    text-align: center;
+};
+#bodyid {
+    background-color: aqua;
+    text-align: center;
+};
+
+.image-section {
+    display: flex;
+    justify-content: center;
+};
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px ;
+    background-color: blue;
+};
+div {
+    margin-top: 15px;
+};
+
+body {
+    text-align: center;
+    background-color: aqua;
+}
